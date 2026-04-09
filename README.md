@@ -229,15 +229,3 @@ Install **Expo Go** from App Store / Play Store, then scan the QR code from term
 
 ---
 
-## 🎨 App Theme
-
-- **Background:** Deep dark `#0A0E1A`
-- **Surface:** Dark cards `#141824`  
-- **Primary:** Vibrant red `#E63946`
-- **Success:** Teal `#2EC4B6`
-- **Info:** Blue `#4CC9F0`
-- **Warning:** Amber `#FF9F1C`
-
----
-
-*Built for B.Tech 6th Semester Minor Project — Parul University*
